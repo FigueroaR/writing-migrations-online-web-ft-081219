@@ -1,4 +1,4 @@
 class CreateStudents < ActiveRecord::Migration
   def change 
-    createTable 
+    create_table 
   end 

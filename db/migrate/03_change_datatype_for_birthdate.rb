@@ -1,1 +1,5 @@
-class ChangeDatatypeForBir
+class ChangeDatatypeForBirthdate
+  def change 
+    
+  end 
+end 
